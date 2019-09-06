@@ -10,9 +10,11 @@ clean:
 
 site/doc: doc doc/*
 	cp -r doc site
+	touch site/doc
 
 site/img: img img/*
 	cp -r img site
+	touch site/img
 
 site/%.html: %.md
 	pandoc $< -o $@
