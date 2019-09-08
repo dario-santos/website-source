@@ -1,6 +1,6 @@
 # OCaml Software Foundation
 
-![logo](img/logo-ocsf.png)
+![logo, by [Bettina Steinbrecher](https://bettystein.com/)](img/logo-ocsf.png)
 
 The OCaml Software Foundation is a (non-profit) foundation whose
 mission is to promote, protect, and advance the [OCaml programming
@@ -8,7 +8,7 @@ language](ocaml.org) and its ecosystem, and to support and facilitate
 the growth of a diverse and international community of OCaml users.
 
 We collects donations from our sponsors, companies, entities or people
-interested in growing the OCaml programming language, and use
+interested in growing the OCaml programming language, and
 redistribute these resources to grow, support and strengthen the OCaml
 community.
 
@@ -45,14 +45,14 @@ community.
     open to everyone.
 
 For more information, see our [past and current
-actions](past-and-current-actions.html) and [action
-ideas](action-ideas.html).
+actions](actions.html).
 
 
-# Our sponsors
+# Our current sponsors
 
-If your company would like to advance the programming language, please
-consider [becoming a sponsor](become-a-sponsor.html) too! 
+If your company would like to contribute in supporting and advancing
+the OCaml programming language and its community, please consider
+[becoming a sponsor](becoming-a-sponsor.html) too!
 
 ### Platinum
 
