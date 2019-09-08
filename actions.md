@@ -1,6 +1,22 @@
-# Learn-OCaml platform
+# Past and current actions
 
-- running a new session of the OCaml MOOC in 2018-2019
+## Supporting OCaml teaching
+
+The foundation has invested funding and effort (in particular through
+the work of Yann Régis-Gianas, teaching representative on the
+Executive Board) in the Learn-OCaml technical platform for online
+exercises, which powers the OCaml MOOC and several OCaml courses in
+university.
+
+We are interested in supporting other technical platforms that allow
+teaching OCaml to a wide audience, in a school/academic setting or for
+self-learning; we would also like to grow an open corpus of teaching
+and learning material, and support in-boarding actions towards
+non-OCaml programmers.
+
+Our past actions for OCaml teaching include:
+
+- running sessions of the OCaml MOOC in 2018-2019
   (3k registrants, 200 certificates)
 
   + employed one TA to help students on the MOOC forums
@@ -24,7 +40,6 @@
     national level
 
   + presentation at the OCaml Workshop last year
-  
 
 - financial support for first-year Learn-OCaml courses
 
@@ -34,7 +49,7 @@
     platform. (See the Experience Report at ICFP 2019).
 
 
-## Ongoing work in progress
+Ongoing work in progress includes:
 
 - an instance server where teachers can easily create a new
   Learn-OCaml instance for their course without having to self-host it
@@ -43,7 +58,7 @@
   publicly-available teaching material
 
 
-# General OCaml actions
+## General OCaml actions
 
 - Financial support for the ReasonML association.
 
