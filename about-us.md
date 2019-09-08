@@ -11,11 +11,9 @@ Executive Committee which currently consists of
   (representative of the teaching community)
 - [Gabriel Scherer](http://gasche.info/) (president)
 
-We work with the help of an Advisory Board populated by
-representatives of our [sponsors](sponsors.md). It is a forum to share
-information among industrial users of OCaml and active members of the
-community, to identify and discuss priorities and pain points in the
-OCaml community that the Foundation can help with.
+We regularly discuss our actions, internally, with an Advisory Board
+consiting of representants of each of our sponsors -- see how to
+[become a sponsor](becoming-a-sponsor.html).
 
 Magali Fitzgibbon and Norma Caillot, employees of the INRIA
 Foundation, provide the administrative and legal support that make our
