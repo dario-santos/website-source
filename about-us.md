@@ -1,4 +1,4 @@
-# The people behind the Foundation
+% The people behind the Foundation
 
 The actions of the OCaml Software Foundation are directed by an
 Executive Committee which currently consists of
@@ -23,11 +23,10 @@ actions possible.
 # Acknowledgments
 
 The OCaml Foundation logo was designed by [Bettina
-Steinbecker](https://www.pinterest.com/bettistein/).
+Steinbecker](https://bettystein.com).
 
 Donald Abrams helped with the early organization of the Foundation's
 communication.
-
 
 # On the legal side
 

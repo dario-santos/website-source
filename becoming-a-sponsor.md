@@ -1,3 +1,5 @@
+% Becoming a sponsor
+
 Supporting the OCaml Software Foundation contributes to supporting and
 strengthening the OCaml community. If your company or institution
 builds on top of the OCaml programming language, ecosystem and

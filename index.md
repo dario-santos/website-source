@@ -1,6 +1,4 @@
-# OCaml Software Foundation
-
-![logo, by [Bettina Steinbrecher](https://bettystein.com/)](img/logo-ocsf.png)
+% the OCaml Software Foundation
 
 The OCaml Software Foundation is a (non-profit) foundation whose
 mission is to promote, protect, and advance the [OCaml programming

@@ -3,10 +3,13 @@ HTML_PAGES:=$(patsubst %.md,site/%.html,$(SOURCE_PAGES))
 
 all: site
 
-site: site/doc site/img $(HTML_PAGES)
+site: site/doc site/img site/style.css $(HTML_PAGES)
 
 clean:
 	rm -fR site
+
+site/style.css: style.css
+	cp $< $@
 
 site/doc: doc doc/*
 	cp -r doc site
@@ -16,5 +19,8 @@ site/img: img img/*
 	cp -r img site
 	touch site/img
 
-site/%.html: %.md
-	pandoc $< -o $@
+site/%.html: %.md template.html
+	pandoc \
+	  --title-prefix "OCaml Software Foundation" \
+	  --template template \
+	  $< -o $@
