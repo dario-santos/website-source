@@ -34,7 +34,7 @@ Anonymous sponsorship is possible.
 ## Advisory Board
 
 The Advisory Board of the foundation is populated by representatives
-of our [sponsors](sponsors.md). It is a forum to share information
+of our [sponsors](index.html#sponsors). It is a forum to share information
 among industrial and academic users of OCaml and active members of the
 community, to identify and discuss priorities and pain points in the
 OCaml community that the foundation can help with.

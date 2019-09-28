@@ -1,5 +1,6 @@
 SOURCE_PAGES:=$(wildcard *.md)
 HTML_PAGES:=$(patsubst %.md,site/%.html,$(SOURCE_PAGES))
+TEMPLATE:=bootstrap-template
 
 all: site
 
@@ -19,8 +20,8 @@ site/img: img img/*
 	cp -r img site
 	touch site/img
 
-site/%.html: %.md template.html
+site/%.html: %.md $(TEMPLATE).html Makefile
 	pandoc \
 	  --title-prefix "OCaml Software Foundation" \
-	  --template template \
+	  --template $(TEMPLATE) \
 	  $< -o $@

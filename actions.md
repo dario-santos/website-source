@@ -1,8 +1,8 @@
 % Our actions
 
-# Past and current actions
+## Past and current actions
 
-## Supporting OCaml teaching
+### Supporting OCaml teaching
 
 The foundation has invested funding and effort (in particular through
 the work of Yann Régis-Gianas, teaching representative on the
@@ -60,7 +60,7 @@ Ongoing work in progress includes:
   publicly-available teaching material
 
 
-## General OCaml actions
+### General OCaml actions
 
 - Financial support for the ReasonML association.
 
