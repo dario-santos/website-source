@@ -24,4 +24,5 @@ site/%.html: %.md $(TEMPLATE).html Makefile
 	pandoc \
 	  --title-prefix "OCaml Software Foundation" \
 	  --template $(TEMPLATE) \
+	  --variable active-$(<:.md=) \
 	  $< -o $@

@@ -33,6 +33,7 @@ Our past actions for OCaml teaching include:
 - corpus development: call to everyone (still ongoing)
 
   + received 10 high-quality advanced exercices from François Pottier
+
   + 40 exercises from the MOOC
 
 - teacher communication: wide discussions with OCaml teachers and

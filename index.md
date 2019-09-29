@@ -1,9 +1,11 @@
 % The OCaml Software Foundation
 
+<p class="lead">
 The OCaml Software Foundation is a (non-profit) foundation whose
 mission is to promote, protect, and advance the [OCaml programming
 language](ocaml.org) and its ecosystem, and to support and facilitate
 the growth of a diverse and international community of OCaml users.
+</p>
 
 We collects donations from our sponsors, companies, entities or people
 interested in growing the OCaml programming language, and
@@ -54,29 +56,32 @@ the OCaml programming language and its community, please consider
 
 ### Platinum
 
-<div class="shuffle container d-flex justify-content-center">
-<div class="flex-fill">
+<div class="shuffle container d-flex flex-wrap justify-content-center">
+<div class="flex-fill mx-3">
   <a href="https://ahrefs.com/">
     <img src="img/logo-ahrefs.png"
        alt="Ahrefs"
        style="width: 128px; height: 60px;" />
   </a>
 </div>
-<div class="flex-fill">
+
+<div class="flex-fill mx-3">
   <a href="https://www.janestreet.com/">
     <img src="img/logo-janestreet.png"
        alt="Jane Street"
        style="width: 150px; height: 60px;" />
   </a>
 </div>
-<div class="flex-fill">
+
+<div class="flex-fill mx-3">
   <a href="http://www.ocamlpro.com/">
     <img src="img/logo-ocamlpro.png"
        alt="OCamlPro"
        style="width: 289px; height: 60px;" />
   </a>
 </div>
-<div class="flex-fill">
+
+<div class="flex-fill mx-3">
   <a href="https://tezos.foundation">
     <img src="img/logo-tezos.png"
        alt="Tezos Foundation"
@@ -88,14 +93,15 @@ the OCaml programming language and its community, please consider
 ### Silver
 
 <div class="shuffle container d-flex justify-content-center">
-<div class="flex-fill">
+<div class="flex-fill mx-3">
   <a href="https://www.bloomberg.com/">
     <img src="img/logo-bloomberg.png"
        alt="Bloomberg"
        style="width: 268px; height: 50px;" />
   </a>
 </div>
-<div class="flex-fill" >
+
+<div class="flex-fill mx-3" >
   <a href="https://www.lexifi.com/">
     <img src="img/logo-lexifi.svg"
        alt="Lexifi"
@@ -107,7 +113,7 @@ the OCaml programming language and its community, please consider
 ### Bronze
 
 <div class="shuffle container d-flex justify-content-center">
-<div>
+<div class="flex-fill mx-3">
   <a href="https://www.simcorp.com/">
     <img src="img/logo-simcorp.png"
        alt=""
@@ -115,3 +121,13 @@ the OCaml programming language and its community, please consider
   </a>
 </div>
 </div>
+
+<script>
+var to_shuffle = document.querySelectorAll("div.shuffle");
+for (elem of to_shuffle) {
+  // https://stackoverflow.com/questions/7070054/javascript-shuffle-html-list-element-order
+  for (var i = elem.children.length; i >= 0; i--) {
+      elem.appendChild(elem.children[Math.random() * i | 0]);
+  }
+}
+</script>
