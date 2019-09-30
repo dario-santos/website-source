@@ -20,14 +20,14 @@ certificates). We employed a TA to help students on the MOOC forums.
 The Learn-OCaml online excercise platform
 
 : The Learn-OCaml exercise platform is open-source and easy for anyone
-  to deploy locally to support their OCaml courses.
-
-  We relicensed the codebase to MIT, and funded further development of
+   to deploy locally to support their OCaml courses.
+   
+: We relicensed the codebase to MIT, and funded further development of
   the platform by OCamlPro. We employed two interns to write
   documentation for teachers (platform, exercise-writing...) and
   review pedagogical material.
-
-  We are actively working on an instance server, to make it easier for
+ 
+: We are actively working on an instance server, to make it easier for
   people to deploy new instances for their courses without having to
   host one locally -- which is fairly easyer to do.
 
@@ -62,8 +62,8 @@ ReasonML
 Community events
 
 : We sponsored video-capture for the Paris OCaml meetup. (If you would
-     like to run a regular meetup in another city, feel free to get in
-     touch!)
+  like to run a regular meetup in another city, feel free to get in
+  touch!)
 
 OCaml Language design and development
 
@@ -71,6 +71,6 @@ OCaml Language design and development
   improve our testing of the OCaml compiler and language tools, while
   participating in improving the diversity in the OCaml community.
 
-  We a research internship on type inference, to study approaches to
-  keep the type-checker predictable and robust as the language
-  evolves.
+: We funded a research internship on type inference, to study
+  approaches to keep the type-checker predictable and robust as the
+  language evolves.

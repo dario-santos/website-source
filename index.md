@@ -15,34 +15,22 @@ community.
 ## Some of our recent actions
 
 We fund internships to advance the OCaml ecosystem and also grow new
-OCaml contributors. Recently we funded:
+OCaml contributors. In 2018-2019 we funded
+[Outreachy](https://www.outreachy.org/) internships to improve our
+testing of the OCaml compiler and language tools, a research
+internship on OCaml type inference, and development internships on
+teaching platforms.
 
-- Two [Outreachy](https://www.outreachy.org/) internships to
-    improve our testing of the OCaml compiler and language tools.
-
-- A research internship on type inference, to study approaches to
-  keep the type-checker predictable and robust as the language evolves.
-
-- Two development internships on our teaching platform.
-
-We support the [Learn-OCaml](http://learn-ocaml.hackojo.org/) exercise
-platform and try to facilitate its adoption by teachers.
-
-- We have provided financial support to some early-adopters of the
-  Learn-OCaml platform (McGill university).
-
-- We are funding teachers to grow a [shared
-  corpus](https://github.com/ocaml-sf/learn-ocaml-corpus) of
-  high-quality exercises.
-
-- We are funding the continuous technical development of the
-  [platform software](https://github.com/ocaml-sf/learn-ocaml) --
-  entirely free software, developing features as suggested by
-  its usage in classrooms.
-
-- We provide financial support to run new editions of the [OCaml
-  MOOC](https://www.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session03/about),
-  open to everyone.
+We support the development of the
+[Learn-OCaml](http://learn-ocaml.hackojo.org/) exercise platform and
+try to facilitate its adoption by teachers. We provided financial
+support to some early-adopters of the Learn-OCaml platform (McGill
+university). We are funding teachers to grow a [shared
+corpus](https://github.com/ocaml-sf/learn-ocaml-corpus) of
+high-quality exercises. We also provided financial support to run new
+editions of the [OCaml
+MOOC](https://www.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session03/about),
+open to everyone.
 
 For a more complete view, see our [past and current
 actions](actions.html).
