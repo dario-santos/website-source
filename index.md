@@ -1,4 +1,4 @@
-% The OCaml Software Foundation
+%
 
 <p class="lead">
 The OCaml Software Foundation is a (non-profit) foundation whose
@@ -14,37 +14,37 @@ community.
 
 ## Some of our recent actions
 
-- Fund internships to advance the OCaml ecosystem and also grow new
-  OCaml contributors.
+We fund internships to advance the OCaml ecosystem and also grow new
+OCaml contributors. Recently we funded:
 
-  + Two [Outreachy](https://www.outreachy.org/) internships to
+- Two [Outreachy](https://www.outreachy.org/) internships to
     improve our testing of the OCaml compiler and language tools.
 
-  + A research internship on type inference, to study approaches to
-    keep the type-checker predictable and robust as the language evolves.
+- A research internship on type inference, to study approaches to
+  keep the type-checker predictable and robust as the language evolves.
 
-  + Two development internships on our teaching platform.
+- Two development internships on our teaching platform.
 
-- Evolve the [Learn-OCaml](http://learn-ocaml.hackojo.org/) exercise
-  platform and facilitate its adoption by teachers.
+We support the [Learn-OCaml](http://learn-ocaml.hackojo.org/) exercise
+platform and try to facilitate its adoption by teachers.
 
-  + We have provided financial support to some early-adopters of the
-    Learn-OCaml platform (McGill university).
+- We have provided financial support to some early-adopters of the
+  Learn-OCaml platform (McGill university).
 
-  + We are funding teachers to grow a [shared
-    corpus](https://github.com/ocaml-sf/learn-ocaml-corpus) of
-    high-quality exercises.
+- We are funding teachers to grow a [shared
+  corpus](https://github.com/ocaml-sf/learn-ocaml-corpus) of
+  high-quality exercises.
 
-  + We are funding the continuous technical development of the
-    [platform software](https://github.com/ocaml-sf/learn-ocaml) --
-    entirely free software, developing features as suggested by
-    its usage in classrooms.
+- We are funding the continuous technical development of the
+  [platform software](https://github.com/ocaml-sf/learn-ocaml) --
+  entirely free software, developing features as suggested by
+  its usage in classrooms.
 
-  + We provide financial support to run new editions of the [OCaml
-    MOOC](https://www.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session03/about),
-    open to everyone.
+- We provide financial support to run new editions of the [OCaml
+  MOOC](https://www.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session03/about),
+  open to everyone.
 
-For more information, see our [past and current
+For a more complete view, see our [past and current
 actions](actions.html).
 
 
@@ -54,9 +54,10 @@ If your company would like to contribute in supporting and advancing
 the OCaml programming language and its community, please consider
 [becoming a sponsor](becoming-a-sponsor.html) too!
 
+<div class="sponsors-block">
 ### Platinum
 
-<div class="shuffle container d-flex flex-wrap justify-content-center">
+<div class="sponsors shuffle container d-flex flex-wrap justify-content-center">
 <div class="flex-fill mx-3">
   <a href="https://ahrefs.com/">
     <img src="img/logo-ahrefs.png"
@@ -92,7 +93,7 @@ the OCaml programming language and its community, please consider
 
 ### Silver
 
-<div class="shuffle container d-flex justify-content-center">
+<div class="sponsors shuffle container d-flex justify-content-center">
 <div class="flex-fill mx-3">
   <a href="https://www.bloomberg.com/">
     <img src="img/logo-bloomberg.png"
@@ -112,7 +113,7 @@ the OCaml programming language and its community, please consider
 
 ### Bronze
 
-<div class="shuffle container d-flex justify-content-center">
+<div class="sponsors shuffle container d-flex justify-content-center">
 <div class="flex-fill mx-3">
   <a href="https://www.simcorp.com/">
     <img src="img/logo-simcorp.png"
@@ -131,3 +132,4 @@ for (elem of to_shuffle) {
   }
 }
 </script>
+</div>

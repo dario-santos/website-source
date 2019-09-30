@@ -7,12 +7,15 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="local-style.css">
 
     <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
   </head>
   <body class="bg-dark vh-100">
-
-    <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex"
+    <nav class="navbar navbar-expand-lg navbar-light
+                border-bottom border-dark
+                bg-light
+                d-flex"
          style="font-size: 1.5rem;">
 
       <button class="navbar-toggler" type="button"
@@ -22,7 +25,12 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="container collapse navbar-collapse" id="navbarSupportedContent">
+        <a class="navbar-brand" href="#">
+          <img src="img/logo-ocsf.png"
+               alt="Logo, by <a href='bettystein.com'>Bettina Steinbrecher</a>"/>
+        </a>
+
         <ul class="navbar-nav flex-grow-1 justify-content-center">
           <li class="nav-item mx-2">
             <a class="nav-link $if(active-index)$ active $endif$"
@@ -37,17 +45,12 @@
             <a class="nav-link  $if(active-about-us)$ active $endif$"
                href="about-us.html">About us</a></li>
         </ul>
-
-        <a class="navbar-brand" href="#">
-          <img src="img/logo-ocsf.png"
-               alt="Logo, by <a href='bettystein.com'>Bettina Steinbrecher</a>"/>
-        </a>
       </div>
     </nav>
-    <main role="main" class="container bg-white pt-3" style="min-height: 100%;">
-      <h1>$title$</h1>
-
-      $body$
+    <main role="main" class="container bg-white pt-3 px-5" style="min-height: 100%">
+      <div class="w-75">
+        $body$
+      </div>
     </main>
 
     <!-- Optional JavaScript -->

@@ -20,7 +20,7 @@ Foundation, provide the administrative and legal support that make our
 actions possible.
 
 
-# Acknowledgments
+## Acknowledgments
 
 The OCaml Foundation logo was designed by [Bettina
 Steinbecker](https://bettystein.com).
@@ -28,7 +28,7 @@ Steinbecker](https://bettystein.com).
 Donald Abrams helped with the early organization of the Foundation's
 communication.
 
-# On the legal side
+## On the legal side
 
 Legally, the OCaml Software Foundation (OCSF) is a sub-foundation of
 the [INRIA Foundation](). It is a charity/non-profit -- read our

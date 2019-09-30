@@ -1,15 +1,16 @@
 SOURCE_PAGES:=$(wildcard *.md)
 HTML_PAGES:=$(patsubst %.md,site/%.html,$(SOURCE_PAGES))
 TEMPLATE:=bootstrap-template
+STYLE_PAGES:=site/style.css site/local-style.css
 
 all: site
 
-site: site/doc site/img site/style.css $(HTML_PAGES)
+site: site/doc site/img $(STYLE_PAGES) $(HTML_PAGES)
 
 clean:
 	rm -fR site
 
-site/style.css: style.css
+site/%.css: %.css
 	cp $< $@
 
 site/doc: doc doc/*
