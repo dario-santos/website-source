@@ -41,5 +41,5 @@ deploy: all
 	@cd $(DEPLOY_REPO) && \
 	   (git commit -a -m "update website from build" \
 	    && echo "now push from $(DEPLOY_REPO): \
-	             cd $(DEPLOY_REPO) && git push" \
+	             (cd $(DEPLOY_REPO) && git push)" \
 	    || echo "deploy failed: maybe there were no changes at all?")
