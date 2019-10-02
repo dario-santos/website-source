@@ -1,27 +1,33 @@
-Learn-OCaml is an online platform design for OCaml teaching:
+% The Learn-OCaml technical platform
+
+Learn-OCaml is an online platform designed to support OCaml teaching:
 everything happens in the browser (students do not have to install
 OCaml on their machines to use it), and it provides facilities to
 reuse, write and deploy auto-graded exercises.
 
-Have a look at our [demo instance](learn-ocaml.hackojo.org/).
+Have a look at our [demo instance](http://learn-ocaml.hackojo.org/).
 
 The platform is completely free software, see the [source code
 repository](https://github.com/ocaml-sf/learn-ocaml). We are funding
 the continued technical evolution of the platform.
 
-If you want to use it in your course, for now the recommended approach
-is to deploy your own instance -- this is a fairly simple process, we
-deploy local instances routinely (for a course, a summer school,
-etc). See our documentation on [How to deploy a learn-ocaml
-instance](https://github.com/ocaml-sf/learn-ocaml/blob/master/docs/howto-deploy-a-learn-ocaml-instance.md). We
-are working on creating an instance server that would make it easy to
-create new instances without hosting them; this is still in-progress.
+To use the platform, the recommended approach for now is to deploy
+your own instance of the platform software -- this is a fairly simple
+process, we deploy local instances routinely (for a course, a summer
+school, etc). See our
+[documentation](https://github.com/ocaml-sf/learn-ocaml/blob/master/docs/index.md)
+on how to setup the platform, write auto-graded exercises, and deploy
+the platform locally. We are working on creating an instance server
+that would make it easy to create new instances without hosting them;
+this is still in-progress.
 
 We are also growing an open [corpus of
 exercises](https://github.com/ocaml-sf/learn-ocaml-corpus) which you
-can pick and reuse for your own teaching. We have on the occasion
+can pick and reuse for your own teaching. If you develop your own
+exercises or teaching material, please consider contributing them to
+this open corpus for other teachers to reuse. We have on the occasion
 provided financial compensation to teachers creating new, high-quality
-exercises; please get in touch if you are interested.
+exercises; get in touch if you are interested.
 
 The Learn-OCaml software was initially developed by
 [OCamlPro](https://www.ocamlpro.com/) for the needs of the OCaml MOOC,

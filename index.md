@@ -1,10 +1,11 @@
-%
+% The OCaml Software Foundation
 
 <p class="lead">
 The OCaml Software Foundation is a (non-profit) foundation whose
 mission is to promote, protect, and advance the [OCaml programming
-language](ocaml.org) and its ecosystem, and to support and facilitate
-the growth of a diverse and international community of OCaml users.
+language](https://ocaml.org) and its ecosystem, and to support and
+facilitate the growth of a diverse and international community of
+OCaml users.
 </p>
 
 We collects donations from our sponsors, companies, entities or people
@@ -22,7 +23,7 @@ internship on OCaml type inference, and development internships on
 teaching platforms.
 
 We support the development of the
-[Learn-OCaml](http://learn-ocaml.hackojo.org/) exercise platform and
+[Learn-OCaml](learn-ocaml.html) exercise platform and
 try to facilitate its adoption by teachers. We provided financial
 support to some early-adopters of the Learn-OCaml platform (McGill
 university). We are funding teachers to grow a [shared

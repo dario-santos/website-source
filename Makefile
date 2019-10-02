@@ -27,7 +27,7 @@ site/img: site img img/*
 
 site/%.html: %.md $(TEMPLATE).html Makefile site
 	pandoc \
-	  --title-prefix "OCaml Software Foundation" \
+	  --title-prefix "OCSF" \
 	  --template $(TEMPLATE) \
 	  --variable active-$(<:.md=) \
 	  $< -o $@
