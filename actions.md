@@ -17,7 +17,7 @@ OCaml MOOC
 : We ran sessions of the OCaml MOOC in 2018-2019 (3k registrants, 200
 certificates). We employed a TA to help students on the MOOC forums.
 
-The [Learn-OCaml](learn-ocaml.md) online exercise platform
+The [Learn-OCaml](learn-ocaml.html) online exercise platform
 
 : The Learn-OCaml exercise platform is open-source and easy for anyone
    to deploy locally to support their OCaml courses.
@@ -51,7 +51,7 @@ Helping Learn-OCaml adoption in universities
   the Paris-Diderot university (France) and McGill University
   (Canada). You may be interested in the McGill [ICFP'2019 experience
   report](https://www.cs.mcgill.ca/~bpientka/papers/learn-ocaml-icfp19)
-  on their new course using the [Learn-OCaml](learn-ocaml.md) platform.
+  on their new course using the [Learn-OCaml](learn-ocaml.html) platform.
 
 ## General OCaml actions
 
