@@ -17,7 +17,7 @@ OCaml MOOC
 : We ran sessions of the OCaml MOOC in 2018-2019 (3k registrants, 200
 certificates). We employed a TA to help students on the MOOC forums.
 
-The [Learn-OCaml](learn-ocaml.md) online excercise platform
+The [Learn-OCaml](learn-ocaml.md) online exercise platform
 
 : The Learn-OCaml exercise platform is open-source and easy for anyone
    to deploy locally to support their OCaml courses.
@@ -29,7 +29,7 @@ The [Learn-OCaml](learn-ocaml.md) online excercise platform
  
 : We are actively working on an instance server, to make it easier for
   people to deploy new instances for their courses without having to
-  host one locally -- which is fairly easyer to do.
+  host one locally -- which is fairly easy to do.
 
 OCaml exercise corpus development
 
