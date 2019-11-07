@@ -51,7 +51,7 @@ the OCaml programming language and its community, please consider
   <a href="https://ahrefs.com/">
     <img src="img/logo-ahrefs.png"
        alt="Ahrefs"
-       style="width: 128px; height: 60px;" />
+       style="width: 180px; height: 60px;" />
   </a>
 </div>
 
