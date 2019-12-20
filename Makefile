@@ -3,7 +3,7 @@ HTML_PAGES:=$(patsubst %.md,site/%.html,$(SOURCE_PAGES))
 TEMPLATE:=bootstrap-template
 STYLE_PAGES:=site/style.css site/local-style.css
 
-COMPLETE_SITE=site/doc site/img $(STYLE_PAGES) $(HTML_PAGES)
+COMPLETE_SITE=site/doc site/img $(STYLE_PAGES) $(HTML_PAGES) CNAME
 
 all: $(COMPLETE_SITE)
 
