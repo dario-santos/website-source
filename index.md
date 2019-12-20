@@ -15,13 +15,6 @@ community.
 
 ## Some of our recent actions
 
-We fund internships to advance the OCaml ecosystem and also grow new
-OCaml contributors. In 2018-2019 we funded
-[Outreachy](https://www.outreachy.org/) internships to improve our
-testing of the OCaml compiler and language tools, a research
-internship on OCaml type inference, and development internships on
-teaching platforms.
-
 We support the development of the
 [Learn-OCaml](learn-ocaml.html) exercise platform and
 try to facilitate its adoption by teachers. We provided financial
@@ -32,6 +25,14 @@ high-quality exercises. We also provided financial support to run new
 editions of the [OCaml
 MOOC](https://www.fun-mooc.fr/courses/course-v1:parisdiderot+56002+session03/about),
 open to everyone.
+
+We support the evolution and maintenance of the OCaml software
+ecosystem. Over the course of the OCaml 4.10 release process, we are
+funding work by Kate Deplaix to have a wide look at the ecosystem and
+improve compatibility with the upcoming release. We are also funding
+improvements to the OCaml Reference manual, and a development sprint
+for the [Owl](https://github.com/owlbarn) scientific computing
+project.
 
 For a more complete view, see our [past and current
 actions](actions.html).

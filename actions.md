@@ -53,6 +53,11 @@ Helping Learn-OCaml adoption in universities
   report](https://www.cs.mcgill.ca/~bpientka/papers/learn-ocaml-icfp19)
   on their new course using the [Learn-OCaml](learn-ocaml.html) platform.
 
+: We are funding an initiative in the NOVA University of Lisbon and
+  the University of Beira Interior (Portugal) to research and teach
+  the foundations of computer science using OCaml, bringing new
+  technical developments to the Learn-OCaml platform.
+
 ## General OCaml actions
 
 ReasonML
@@ -61,11 +66,19 @@ ReasonML
 
 Community events
 
-: We sponsored video-capture for the Paris OCaml meetup. (If you would
+: We sponsor video-capture for the Paris OCaml meetup. (If you would
   like to run a regular meetup in another city, feel free to get in
   touch!)
 
-OCaml Language design and development
+: We sponsor the [SWERC](https://swerc.eu/2019/about/) programming
+  contest for 2019-2020, and in return the contest added OCaml to the
+  list of available languages.
+
+: We are sponsoring a development sprint for the
+  [Owl](https://github.com/owlbarn) project for scientific computing
+  in OCaml.
+
+OCaml language design and development
 
 : We funded two [Outreachy](https://www.outreachy.org/) internships to
   improve our testing of the OCaml compiler and language tools, while
@@ -74,3 +87,18 @@ OCaml Language design and development
 : We funded a research internship on type inference, to study
   approaches to keep the type-checker predictable and robust as the
   language evolves.
+
+: We provide funding for the
+  [Gallium/Cambium](http://cambium.inria.fr/) research team at INRIA
+  Paris (France), an active place for OCaml-related fundamental
+  research (some of the team members are also very active on the
+  implementation front, for example Xavier Leroy, Damien Doligez,
+  Florian Angeletti, and Sébastien Hinderer).
+
+: We are funding work to improve the OCaml reference manual.
+
+Supporting the OCaml software ecosystem
+
+: During the ongoing release process for OCaml 4.10, we are funding
+  work by Kate Deplaix to improve the compatibility of the
+  opam-repository ecosystem with the new OCaml release.
